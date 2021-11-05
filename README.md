@@ -1,9 +1,11 @@
-# Ryan Buehler - Game Engineer
+# Ryan Buehler - Code Samples - Game Programming
 
-## Hello 👋 Welcome to my open source code samples.
+## 👋 Hello! Thank you for visiting my code samples!
 
 Here is Phoenix Engine, a graphics engine I created from scratch: https://github.com/RyanBuehler/PhoenixEngine
 
-<screenshots of graphics work>
+2D Lighting System - FMRL
+
+
 
 <link to resume> 
