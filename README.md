@@ -2,10 +2,12 @@
 
 ## 👋 Hello! Thank you for visiting my code samples!
 
-Here is Phoenix Engine, a graphics engine I created from scratch: https://github.com/RyanBuehler/PhoenixEngine
+Custom Engine Project:
+[Phoenix Engine](https://github.com/RyanBuehler/PhoenixEngine)
 
-2D Lighting System - FMRL
+### 2D Lighting System - FMRL
+![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting.png)
+![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting2.png)
 
-
-
-<link to resume> 
+### 2D Shadow System - FMRL
+![FMRL 2D Shadows Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Shadows.png)
