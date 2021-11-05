@@ -1,4 +1,4 @@
-# Ryan Buehler - Video Game Engineer
+# Ryan Buehler - Game Engineer
 
 ## Hello 👋 Welcome to my open source code samples.
 
