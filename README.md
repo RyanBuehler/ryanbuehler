@@ -2,9 +2,10 @@
 
 ## 👋 Hello! Thank you for visiting my code samples!
 
-Custom Engine Project:
+# Custom Engine Project:
 [Phoenix Engine](https://github.com/RyanBuehler/PhoenixEngine)
 
+# Graphics Portfolio Examples
 ### 2D Lighting System - FMRL
 ![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting.png)
 ![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting2.png)
