@@ -12,14 +12,16 @@
 [BlinnPhong.frag](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
 
 ## Graphics Portfolio Examples
-### Independent Graphics Engine Project
+### C++/OpenGL/GLSL Independent Graphics Engine Project - Work in Progress
 ![Active Controls via DearImGui](https://github.com/RyanBuehler/ryanbuehler/blob/main/PhoenixEngineImGui.png)
 ![BlinnPhong Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/PhoenixEngineShinyRabbit.png)
 
-### 2D Lighting System - FMRL (Team Project, 11 Members)
+### DirectX/HLSL 2D Lighting System - FMRL (C++ Custom Engine, Team Project, 11 Members)
 ![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting.png)
 ![FMRL 2D Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Lighting2.png)
 
-### 2D Shadow System - FMRL (Team Project, 11 Members)
+### DirectX/HLSL 2D Shadow System - FMRL (Team Project, 11 Members)
 ![FMRL 2D Shadows Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/FMRL_Shadows.png)
 <br/><br/><br/>
+
+### More to come soon... including edited videos of Academic Projects
