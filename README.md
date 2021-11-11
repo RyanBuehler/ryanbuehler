@@ -1,5 +1,7 @@
 # Ryan Buehler - Code Samples and Portfolio
-### 👋 Hello! Thank you for visiting my code samples! For brevity, this portfolio will be kept simple. For source code and portfolio examples, please see below.
+### 👋 Hello! Thank you for visiting my code samples!
+### I am currently a Junior CSRTIS Student at DigiPen Institute of Technology and a passionate Video Game Programmer.
+### For brevity and your time, this portfolio will be kept as simple as possible. For source code and portfolio examples, please see below.
 
 ## Source Code Samples:
 
