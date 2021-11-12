@@ -9,7 +9,7 @@
 [Mesh.cpp](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.cpp) <br/>
 [Mesh.h](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.h) <br/>
 
-### C++ An AI Behavior Tree based BOIDS "flocking" controller: <br/>
+### C++ AI Behavior Tree based BOIDS "flocking" controller: <br/>
 [KidFlock.cpp](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.cpp) <br/>
 [KidFlock.h](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.h) <br/>
 
