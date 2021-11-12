@@ -5,9 +5,14 @@
 
 ## Source Code Samples:
 
-### C++ Mesh Class for Independent Rendering Study: <br/>
+### C++ Mesh Class for an independent rendering study: <br/>
 [Mesh.cpp](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.cpp) <br/>
 [Mesh.h](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.h) <br/>
+
+### C++ An AI Behavior Tree based BOIDS "flocking" controller: <br/>
+[KidFlock.cpp](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.cpp) <br/>
+[KidFlock.h](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.h) <br/>
+
 
 ### Blinn-Phong Shader in GLSL: <br/>
 [BlinnPhong.vert](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
