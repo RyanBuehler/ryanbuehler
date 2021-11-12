@@ -1,6 +1,6 @@
 # Ryan Buehler - Code Samples and Portfolio
 ### 👋 Hello! Thank you for visiting my code samples!
-### I am currently a Junior CSRTIS Student at DigiPen Institute of Technology and a passionate Video Game Programmer.
+### I am currently a Junior Computer Science in Real-Time Interactive Simulation Student at DigiPen Institute of Technology and a passionate Video Game Programmer.
 ### For brevity and your time, this portfolio will be kept as simple as possible. For source code and portfolio examples, please see below.
 
 ## Source Code Samples:
@@ -10,8 +10,8 @@
 [Mesh.h](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.h) <br/>
 
 ### Blinn-Phong Shader in GLSL: <br/>
-[BlinnPhong.vert](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.frag) <br/>
-[BlinnPhong.frag](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
+[BlinnPhong.vert](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
+[BlinnPhong.frag](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.frag) <br/>
 
 ## Graphics Portfolio Examples
 ### C++/OpenGL/GLSL Independent Graphics Engine Project - Work in Progress
