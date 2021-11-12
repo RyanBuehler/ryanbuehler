@@ -18,7 +18,7 @@
 [BlinnPhong.vert](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
 [BlinnPhong.frag](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.frag) <br/>
 
-## Graphics Portfolio Examples
+## Graphics and Rendering Portfolio Examples
 ### C++/OpenGL/GLSL Independent Graphics Engine Project - Work in Progress
 ![Active Controls via DearImGui](https://github.com/RyanBuehler/ryanbuehler/blob/main/PhoenixEngineImGui.png)
 ![BlinnPhong Lighting Example](https://github.com/RyanBuehler/ryanbuehler/blob/main/PhoenixEngineShinyRabbit.png)
