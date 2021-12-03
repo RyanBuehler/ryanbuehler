@@ -5,15 +5,15 @@
 
 ## Source Code Samples:
 
-### C++ Mesh Class for an independent rendering study: <br/>
+### Mesh Class for an independent rendering study [C++]: <br/>
 [Mesh.cpp](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.cpp) <br/>
 [Mesh.h](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/src/Mesh.h) <br/>
 
-### C++ AI Behavior Tree based BOIDS "flocking" controller: <br/>
+### AI Behavior Tree based BOIDS "flocking" controller [C++]: <br/>
 [KidFlock.cpp](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.cpp) <br/>
 [KidFlock.h](https://github.com/RyanBuehler/ryanbuehler/blob/main/KidFlock.h) <br/>
 
-### Real Time Environment Mapping [Cube]: <br/>
+### Custom Blinn-Phong Shader [GLSL]: <br/>
 [BlinnPhong.vert](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.vert) <br/>
 [BlinnPhong.frag](https://github.com/RyanBuehler/PhoenixEngine/blob/main/PhoenixEngine/res/shaders/BlinnPhong.frag) <br/>
 
