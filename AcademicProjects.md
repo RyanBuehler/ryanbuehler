@@ -1,4 +1,6 @@
 # Ryan Buehler - Academic Game Projects
+Below are my academic team game projects, including a video, summary and my contributions to each.<br><br>
+
 ## [2021-Current] Divergence:
 *Game currently in development. Video will be uploaded toward end of production cycle.*
 
@@ -37,3 +39,6 @@ Video coming shortly.
 * Audio - FMOD integration in engine, dynamic sfx and music
 * Systems - Projectiles, enemies, time dilation, player abilities
 * Misc - 3D Art
+
+
+## [Click Here To Return to Main Page](https://github.com/RyanBuehler/ryanbuehler/blob/main/README.md)
