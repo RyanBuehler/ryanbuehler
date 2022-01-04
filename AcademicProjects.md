@@ -1,9 +1,9 @@
 # Ryan Buehler - Academic Game Projects
 ## [2021-Current] Divergence:
-Video coming shortly.
+*Game currently in development. Video will be uploaded toward end of production cycle.*
 
 ### Summary: 
-3rd Person Shooter with Time Manipulation. Interdisciplinary team of 16 developers. Unreal Engine 4.
+*3rd Person Shooter with Time Manipulation. Interdisciplinary team of 16 developers. Unreal Engine 4.*
 
 ### My Contributions:
 * Technical Director - Maintained tech team tasks, documentation and liased with other disciplines
@@ -14,7 +14,7 @@ Video coming shortly.
 ## [2020-2021] F.M.R.L.:
 Video coming shortly.
 ### Summary:
-2D Stealth/Puzzle. Interdisciplinary team of 12 developers. Custom Engine in C++.
+*2D Stealth/Puzzle. Interdisciplinary team of 12 developers. Custom Engine in C++.*
 
 ### My Contributions:
 * Rendering - Maintained rendering system utilizing DirectX API/HLSL
@@ -29,7 +29,7 @@ Video coming shortly.
 [![Solaria Demo](https://img.youtube.com/vi/V3gB-CiVXp8/0.jpg)](https://www.youtube.com/watch?v=V3gB-CiVXp8)
 
 ### Summary:
-Top-down space shooter. Team of 5 programmers. Custom Engine built in C.
+*Top-down space shooter. Team of 5 programmers. Custom Engine built in C.*
 
 ### My Contributions:
 * AI - Utility based system involving custom parameters for decision making
