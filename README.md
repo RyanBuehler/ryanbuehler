@@ -3,6 +3,10 @@
 ### I am currently a Junior Computer Science in Real-Time Interactive Simulation Student at DigiPen Institute of Technology and a passionate Video Game Programmer.
 ### For brevity and your time, this portfolio will be kept as simple as possible. For source code and portfolio examples, please see below.
 
+## Academic Game Projects
+
+[Game Team Projects](https://github.com/RyanBuehler/ryanbuehler/blob/main/AcademicProjects.md)
+
 ## Source Code Samples:
 
 ### Mesh Class for an independent rendering study [C++]: <br/>
