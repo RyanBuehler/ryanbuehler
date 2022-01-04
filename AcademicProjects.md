@@ -25,8 +25,10 @@ Video coming shortly.
 * Engine - Editor integration for Graphics/Audio systems
 
 ## [2019-2020] Solaria:
+### Demo on YouTube:
+[![Solaria Demo](https://img.youtube.com/vi/V3gB-CiVXp8/0.jpg)](https://www.youtube.com/watch?v=V3gB-CiVXp8)
+
 ### Summary:
-### My Contributions:
 Top-down space shooter. Team of 5 programmers. Custom Engine built in C.
 
 ### My Contributions:
