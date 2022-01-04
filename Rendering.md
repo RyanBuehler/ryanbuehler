@@ -1,7 +1,9 @@
 # Ryan Buehler - Graphics/Rendering Portfolio
 Phoenix Engine is my custom graphics engine utilizing OpenGL API/GLSL. It is mostly for fun, learning, experimentation and portfolio. It is currently a Work In Progress.
 
-UI built with [DearImGui](https://github.com/ocornut/imgui).
+OpenGL accessed through [GLEW](http://glew.sourceforge.net/) and [GLFW](https://www.glfw.org/) <br>
+UI Windows built with [DearImGui](https://github.com/ocornut/imgui) <br>
+Logging built with [spdlog](https://github.com/gabime/spdlog) <br>
 
 ## C++/OpenGL/GLSL Independent Graphics Engine Project - Work in Progress
 ![Real Time Environment Mapping](https://github.com/RyanBuehler/ryanbuehler/blob/main/PhoenixEngineEnvironmentMap.png)
