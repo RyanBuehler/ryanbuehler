@@ -5,7 +5,7 @@
 
 ## [Academic Game Projects](https://github.com/RyanBuehler/ryanbuehler/blob/main/AcademicProjects.md)
 
-## [Graphics and Rendering Portfolio Examples]
+## [Graphics and Rendering Portfolio Examples](https://github.com/RyanBuehler/ryanbuehler/blob/main/Rendering.md)
 
 ## Source Code Samples:
 
