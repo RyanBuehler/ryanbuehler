@@ -2,7 +2,8 @@
 Below are my academic team game projects, including a video, summary and my contributions to each.<br><br>
 
 ## [2021-Current] Divergence:
-*Game currently in development. Video will be uploaded toward end of production cycle.*
+### Pre-Alpha Trailer on YouTube:
+[![Divergence Trailer](https://img.youtube.com/vi/G4o_hR_bDGE/0.jpg)](https://www.youtube.com/watch?v=G4o_hR_bDGE)
 
 ### Summary: 
 *3rd Person Shooter with Time Manipulation. Interdisciplinary team of 16 developers. Unreal Engine 4.*
